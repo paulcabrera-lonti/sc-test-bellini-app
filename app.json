@@ -43,7 +43,10 @@
     {
       "order": 2,
       "parentDirectoryId": "5Bsk6odwVPlHptMk96-k7",
-      "path": "dir/a/a.js"
+      "path": "dir/a/a.js",
+      "properties": {
+        "type": "importmap"
+      }
     },
     {
       "order": 1,
@@ -65,6 +68,6 @@
       "path": "cc/cs.css"
     }
   ],
-  "name": "sc-test",
+  "name": "sc-test_1",
   "type": "app"
 }
