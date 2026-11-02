@@ -1,0 +1,70 @@
+{
+  "config": {
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "environments": [],
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "themes": []
+  },
+  "defaultPage": "home",
+  "directories": {
+    "assets": [],
+    "components": [],
+    "pages": [],
+    "scripts": [
+      {
+        "id": "7g5MNRQp79Z6Rbz3PIhYD",
+        "name": "dir"
+      },
+      {
+        "id": "5Bsk6odwVPlHptMk96-k7",
+        "name": "a",
+        "parentDirectoryId": "7g5MNRQp79Z6Rbz3PIhYD"
+      }
+    ],
+    "services": [],
+    "stylesheets": [
+      {
+        "id": "NKyyI18MfT57WA00sBczb",
+        "name": "cc"
+      }
+    ]
+  },
+  "localScripts": [
+    {
+      "order": 2,
+      "parentDirectoryId": "5Bsk6odwVPlHptMk96-k7",
+      "path": "dir/a/a.js"
+    },
+    {
+      "order": 1,
+      "parentDirectoryId": "5Bsk6odwVPlHptMk96-k7",
+      "path": "dir/a/js1.js"
+    },
+    {
+      "order": 3,
+      "parentDirectoryId": "5Bsk6odwVPlHptMk96-k7",
+      "path": "dir/a/js2.js"
+    }
+  ],
+  "localStylesheets": [
+    {
+      "path": "c.css"
+    },
+    {
+      "parentDirectoryId": "NKyyI18MfT57WA00sBczb",
+      "path": "cc/cs.css"
+    }
+  ],
+  "name": "sc-test",
+  "type": "app"
+}
