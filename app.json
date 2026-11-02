@@ -56,7 +56,10 @@
     {
       "order": 3,
       "parentDirectoryId": "5Bsk6odwVPlHptMk96-k7",
-      "path": "dir/a/js2.js"
+      "path": "dir/a/js2.js",
+      "properties": {
+        "type": "importmap"
+      }
     }
   ],
   "localStylesheets": [
