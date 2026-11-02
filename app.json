@@ -45,7 +45,7 @@
       "parentDirectoryId": "5Bsk6odwVPlHptMk96-k7",
       "path": "dir/a/a.js",
       "properties": {
-        "type": "importmap"
+        "type": "module"
       }
     },
     {
