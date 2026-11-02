@@ -51,14 +51,17 @@
     {
       "order": 1,
       "parentDirectoryId": "5Bsk6odwVPlHptMk96-k7",
-      "path": "dir/a/js1.js"
+      "path": "dir/a/js1.js",
+      "properties": {
+        "type": "module"
+      }
     },
     {
       "order": 3,
       "parentDirectoryId": "5Bsk6odwVPlHptMk96-k7",
       "path": "dir/a/js2.js",
       "properties": {
-        "type": "importmap"
+        "type": "module"
       }
     }
   ],
